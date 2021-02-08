@@ -147,10 +147,6 @@ body {
   .movie-description{
     font-size: 14px;
   }
-  .single-movie-info{
-    overflow: scroll;
-    height: 100vh;
-  }
   .single-movie-bg{
     align-items: end;
   }
